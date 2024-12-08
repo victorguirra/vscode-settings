@@ -1,0 +1,21 @@
+{
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true,
+    "workbench.iconTheme": "symbols",
+    "workbench.tree.indent": 25,
+    "editor.lineHeight": 1.6,
+    "editor.fontSize": 14,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "editor.minimap.enabled": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "symbols.hidesExplorerArrows": false,
+    "explorer.compactFolders": false,
+    "editor.rulers": [110, 140],
+    "workbench.startupEditor": "newUntitledFile",
+    "editor.renderLineHighlight": "gutter",
+    "editor.bracketPairColorization.enabled": true,
+    "workbench.colorTheme": "Min Dark"
+}
